@@ -1,0 +1,9 @@
+[submodule "agence-service"]
+	path = agence-service
+	url = git@github.com:Shyrogan/agence-service.git
+[submodule "tripadvisor-service"]
+	path = tripadvisor-service
+	url = git@github.com:Shyrogan/tripadvisor-service.git
+[submodule "hotel-service"]
+	path = hotel-service
+	url = git@github.com:Shyrogan/hotel-service.git
